@@ -1,1 +1,1 @@
- Simple cinema tichets booking system.
+ Simple cinema ticket booking system.
